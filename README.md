@@ -1,2 +1,2 @@
-# GIPS
-A MIPS interpreter writin in Go
+# GIPS-I
+A MIPS-I interpreter writin in Go
